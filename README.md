@@ -1,21 +1,26 @@
-# Accessibility-and-Refactoring
+# Accessibility and Refactoring
 
-## HTML Challenge 1
-This assignment is to refactor existing code to meet accessibility standards for marketing agency's website. Optimize for search engines.
+## HTML Challenge Description:
 
-##
+This first challenge is to refactor existing code to meet accessibility standards for the marketing agency, Horiseon. The goal is to improve, but not change, the existing code so the webpage is optimized for search engines, meets accessibility standards, and is functioning correclty.
 
--added semantic elements to reflect intended purpose of element
--fixed links
--added comments to css
+### Improvements:
+
+* Improved HTML to follow a semantic structure
+* Consolidated elements in CSS to increase efficiency
+* Added comments in CSS 
+* Fixed links in the navigation bar
+* Added title to display on webpage tab
+
+### Final Product
+
+The final page appears the same as the original but with improved functionality. View full webpage here: 
+
+![Screenshot from finished page.](./assets/images/Horiseon_Screenshot_index.html.png)
 
 
 
-## Description
+### Closing Thoughts
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This was a fun challange. I enjoyed working through the code like a puzzle and organizing each section. I learned alot about the functionality of different elements and how to properly structure HTML and CSS files. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
