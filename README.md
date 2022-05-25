@@ -14,7 +14,7 @@ This first challenge is to refactor existing code to meet accessibility standard
 
 ### Final Product
 
-The final page appears the same as the original but with improved functionality. View full webpage here: 
+The final page appears the same as the original but with improved functionality. View full webpage here: https://jmotto.github.io/Accessibility-and-Refactoring/
 
 ![Screenshot from finished page.](./assets/images/Horiseon_Screenshot_index.html.png)
 
